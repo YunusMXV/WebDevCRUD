@@ -1,0 +1,2 @@
+The controllers folder contains the controller functions that handle user requests and return responses. 
+In a typical Node.js application, each controller function is responsible for handling a specific type of request, such as retrieving data from a database or processing a form submission.

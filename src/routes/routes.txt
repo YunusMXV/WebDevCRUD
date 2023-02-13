@@ -1,0 +1,3 @@
+ The routes folder contains the route definitions that define how requests are handled. 
+ In a typical Node.js application, each route is defined by a URL pattern and an associated controller function. 
+ When a user makes a request to the application, the URL is matched against the route definitions to determine which controller function should be executed.
